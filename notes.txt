@@ -1,0 +1,218 @@
+██████╗ ███████╗    ███████╗ ██████╗ ██████╗     ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗    ███████╗██████╗  █████╗     
+██╔══██╗██╔════╝    ██╔════╝██╔═══██╗██╔══██╗    ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║    ██╔════╝██╔══██╗██╔══██╗    
+██║  ██║███████╗    █████╗  ██║   ██║██████╔╝    ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║    █████╗  ██║  ██║███████║    
+██║  ██║╚════██║    ██╔══╝  ██║   ██║██╔══██╗    ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║    ██╔══╝  ██║  ██║██╔══██║    
+██████╔╝███████║    ██║     ╚██████╔╝██║  ██║    ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║    ███████╗██████╔╝██║  ██║    
+╚═════╝ ╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝    ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚══════╝╚═════╝ ╚═╝  ╚═╝    
+                                                                                                                                      
+---------------------------
+INTRODUCTION TO THIS COURSE 
+---------------------------
+
+    - Introduction DS and ML 
+    - Supervised and Un Supervised Learning 
+    - Scoping DS project 
+    - Handling Multiple sources of Data 
+    - Handle Common data cleaning Issues 
+
+This course is a part - 1 of a 5 part series. 
+Let me check if I got all the parts right... 
+
+- Data Prep and EDA 
+- Regression 
+- Classification 
+- Unsupervised Learning 
+- NLP Natural Language Processing 
+
+In This course We get 
+
+- Introduction to Data Science 
+- Scoping a Project 
+- Installing Jupyter Notebook 
+- Gathering Data 
+- Cleaning Data 
+- Exploratory Data Analysis 
+- MID-COURSE PROJECT 
+- Preparing for Model 
+
+Final course Project 
+
+This course Covers 
+    
+    - Data Gathering, 
+    - Cleaning 
+    - Exploratory Data Analysis 
+
+Not applying any ML Models 
+We could use Jupyter Notebook 
+
+------------------------------------
+INTRODUCTION TO DATA SCIENCE SECTION 
+------------------------------------
+
+---------------------
+What is Data Science?
+---------------------
+
+- Data Science is using data to make smart decisions 
+- Data Science becomes different with Business Intelligences 
+based on the tools and techniques and how we use them 
+
+What Happened - Data Analyst! 
+What is going to Happen - Data Scientist! 
+
+---------------------------------
+Skill Set needed for Data Science 
+---------------------------------
+
+- Coding | ML and Data Cleaning comes here 
+- Math and | Covers the Analysis Part 
+- Domain Expertise | concepts associated with the domain 
+
+Key Skills 
+
+- Communication 
+- Problem Solving 
+- Curiosity and Creativity 
+- Grit 
+- Googling Prowess  
+
+-------------------------
+What is Machine Learning? 
+-------------------------
+
+- Machine Learning Enables Computers to learn and Make Decisions from Data 
+- By Using Algorithms, which is a set of instruction for a computer to follow 
+- Data Scientists know how to apply algorithms, meaning they're able to tell a computer 
+how to learn from data 
+
+---------------------------------------------
+What is Supervised and Unsupervised learning?
+---------------------------------------------
+
+Machine Learning Algorithms fall into two broad categories:
+Supervised Learning and Unsupervised Learning 
+
+Supervised Learning 
+    - Using Historical Data to Predict the future 
+
+Unsupervised Learning 
+    - Finding Patterns and relationships in data 
+
+----------------------------------
+Common Machine Learning Algorithms 
+----------------------------------
+
+- Supervised Learning and Unsupervised learning 
+
+- Supervised Learning 
+
+    - Regression 
+
+        - Linear Regression 
+        - Regularized Regression 
+        - Time Series 
+    
+    - Classification 
+
+        - KNN 
+        - Logistic Regression 
+        - Tree-Based Models 
+        - Naive Bayes - NLP
+
+- Unsupervised Learning 
+
+    - K-Means Clustering 
+    - Hierarchical Clustering 
+    - Anomaly Detection 
+    - Matrix Factorization 
+    - Principal Components Analysis 
+    - Recommender Systems 
+    - Topic Modeling (NLP)
+
+Data Science Workflow 
+
+- Scoping Project 
+- Gathering Data 
+- Cleaning Data 
+- Exploring Data 
+- Modelling Data 
+- Sharing Insights 
+
+-----------------
+Scoping A Project 
+-----------------
+
+Scoping a Project here defines as the goals and concepts 
+which the project should be based on and how they pertain to 
+the results which people are looking forward to 
+
+Projects should have clearly defined scope 
+- Who are end users or stake holders? 
+- What business are we trying to solve and how does that help to them? 
+- Is this a supervised or Unsupervised learning Problem.. Or do you even need 
+data science to solve this problem 
+- What data do you think you need for your analysis? 
+
+--------------
+Gathering Data
+--------------
+
+Gathering Data simply means, gathering sample data for his analysis 
+Data could be stored in many ways, 
+Structures 
+    - files and databases 
+Unstructured 
+    - Video and audio files 
+    and Photographs 
+
+--------------
+Cleaning Data 
+--------------
+
+Cleaning Data basically means removing redundant or unwanted materials 
+from data which is not going to contribute to the insight of the project 
+
+Data Cleaning Includes 
+    - Correcting Data Types 
+    - Formatting Data 
+    - Imputing Missing Data 
+    - Dealing with Data inconsistency 
+    - Re-formatting Data etc 
+
+--------------
+Exploring Data 
+--------------
+
+Also known as Exploratory Data Analysis 
+it includes
+
+- Slicing and dicing the data 
+- Summarizing the data 
+- Visualizing the data
+
+--------------
+Modelling Data  
+--------------
+
+Restructuring data 
+Feature Engineering 
+Applying ML 
+
+----------------
+Sharing Insights 
+----------------
+
+- Reiterate the problem 
+- Interpret the results of your analysis 
+- Share recommendations and next steps 
+- focus on potential impact not technical details 
+
+-------------
+Key Takeaways 
+-------------
+
+- Data Science is about using data to make smart decisions 
+- Coding and math is needed along with domain expertise 
+- data science workflow starts with defining a clear scope 
+- data scientist time is spent on cleaning and preparing data for analysis 
